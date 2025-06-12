@@ -12,7 +12,7 @@ Here's how:
 2. Data Preprocessing: Cleaned news titles with tokenization, stopword removal, lemmatization, and regex to remove non-alphabetic characters.
 3. Feature Extraction: Applied TF-IDF Vectorization to convert text into numeric features highlighting important words.
 4. Model Building: Trained a Passive Aggressive Classifier, suitable for fast and large-scale text classification tasks.
-5. Model Evaluation: Assessed performance using accuracy and confusion matrix, achieving 94.02% accuracy in detecting fake news from titles.
+5. Model Evaluation: Assessed performance using accuracy and confusion matrix, achieving 94.18% accuracy in detecting fake news from titles.
 
 # Project Demonstration
 ![home](https://github.com/user-attachments/assets/1f99ac83-9580-42ec-a5b9-05138b664b73)
