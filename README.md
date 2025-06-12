@@ -26,7 +26,7 @@ In today’s digital age, the rapid spread of misinformation has become a seriou
 
 To achieve this, we have built a predictive model using TF-IDF Vectorization for feature extraction and the Passive Aggressive Classifier algorithm for classification. TF-IDF helps in identifying the most important words in a news title, while the Passive Aggressive Classifier is well-suited for large-scale text classification tasks and performs efficiently in online learning environments.
 
-The model is trained on a labeled dataset of real and fake news titles. After training, it achieved a commendable accuracy of 94.02%, demonstrating its effectiveness in detecting fake news headlines.
+The model is trained on a labeled dataset of real and fake news titles. After training, it achieved a commendable accuracy of 94.18%, demonstrating its effectiveness in detecting fake news headlines.
 
 This system provides users with a simple interface where they can input a news title and instantly receive a prediction indicating whether the news is likely to be genuine or fake, thereby helping to promote responsible information sharing and media consumption.
 
